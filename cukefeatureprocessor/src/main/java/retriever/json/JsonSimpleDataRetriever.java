@@ -1,4 +1,4 @@
-package retriever;
+package retriever.json;
 
 import java.util.ArrayList;
 import java.util.List;

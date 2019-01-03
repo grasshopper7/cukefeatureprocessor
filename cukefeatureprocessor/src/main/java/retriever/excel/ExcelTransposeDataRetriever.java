@@ -1,4 +1,4 @@
-package retriever;
+package retriever.excel;
 
 import java.util.ArrayList;
 import java.util.Arrays;

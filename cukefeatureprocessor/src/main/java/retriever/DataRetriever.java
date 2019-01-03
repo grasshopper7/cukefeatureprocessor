@@ -3,6 +3,11 @@ package retriever;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 
+import retriever.excel.ExcelDataRetriever;
+import retriever.json.JsonDataRetriever;
+import retriever.program.ProgramDataRetriever;
+import retriever.text.TextDataRetriever;
+
 public abstract class DataRetriever {
 	
 	public static final String DELIMITER = "|";

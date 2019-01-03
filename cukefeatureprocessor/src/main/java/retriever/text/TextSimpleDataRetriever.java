@@ -1,4 +1,4 @@
-package retriever;
+package retriever.text;
 
 public class TextSimpleDataRetriever extends TextDataRetriever {
 

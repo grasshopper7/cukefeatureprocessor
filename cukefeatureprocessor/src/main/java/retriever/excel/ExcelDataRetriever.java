@@ -1,4 +1,4 @@
-package retriever;
+package retriever.excel;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,6 +12,8 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.apache.poi.ss.util.AreaReference;
 import org.apache.poi.ss.util.CellReference;
+
+import retriever.DataRetriever;
 
 public abstract class ExcelDataRetriever extends DataRetriever {
 	

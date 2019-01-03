@@ -1,9 +1,11 @@
-package retriever;
+package retriever.program;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Arrays;
 import java.util.List;
+
+import retriever.DataRetriever;
 
 public class ProgramDataRetriever extends DataRetriever {
 

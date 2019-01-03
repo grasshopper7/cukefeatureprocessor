@@ -1,4 +1,4 @@
-package retriever;
+package retriever.json;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -13,6 +13,8 @@ import com.google.gson.Gson;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonSyntaxException;
+
+import retriever.DataRetriever;
 
 public abstract class JsonDataRetriever extends DataRetriever {
 
