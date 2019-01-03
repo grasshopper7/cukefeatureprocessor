@@ -6,7 +6,7 @@
 	<artifactId>cukefeatureprocessor</artifactId>
 	<version>1.1.0</version>
 	<name>Cucumber-JVM feature file data processor</name>
-	<description>Accessing Feature File Data stored in excel, json and text files</description>
+	<description>Accessing Feature File Data stored in excel, json and text formats</description>
 	<url>https://github.com/grasshopper7/cukefeatureprocessor</url>
 
 	<licenses>
